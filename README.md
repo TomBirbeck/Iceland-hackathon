@@ -1,2 +1,2 @@
 # Iceland-hackathon
-https://prod.liveshare.vsengsaas.visualstudio.com/join?7AD9E9F3BAE5321A7381C35139B95067DFB7
+https://prod.liveshare.vsengsaas.visualstudio.com/join?36C7DE64627E6EDC0DC17282FEB9F25AC75B
