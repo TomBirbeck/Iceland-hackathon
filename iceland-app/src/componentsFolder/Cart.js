@@ -7,7 +7,6 @@ export default function Cart({ items }) {
     <div className="container">
       <h1>Cart</h1>
       <div>
-
         <CartItems items={items} />
       </div>
       <p>continue</p>
