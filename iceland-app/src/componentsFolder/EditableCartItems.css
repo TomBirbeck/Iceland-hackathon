@@ -1,7 +1,7 @@
 .item {
     display: grid;
     width: 100%;
-    grid-template-columns: 1fr 100px 100px;
+    grid-template-columns: 1fr 100px 100px 50px;
 }
 
 .itemName {
